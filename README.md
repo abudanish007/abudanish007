@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abudanish007
-- 👀 I’m interested in software development, backend development
-- 💞️ I’m looking to collaborate on projects related to Backend Operatons, React, or any innovative tech ideas.
+- 👀 I’m interested in software development, backend development.
+- 💞️ I’m looking to collaborate on projects related to Backend Operations, React, Node.js, Express.js
 - 📫 How to reach me: You can reach me via email at abudanish32@gmail.com or connect with me on LinkedIn [[insert LinkedIn profile link](https://www.linkedin.com/in/abu-danish-8005b81bb/)https://www.linkedin.com/in/abu-danish-8005b81bb/].
