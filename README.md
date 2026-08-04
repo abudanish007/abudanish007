@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @abudanish007
-- 👀 I’m interested in software development, backend development.
-- 💞️ I’m looking to collaborate on projects related to Backend Operations, React, FastApi.
-- 📫 How to reach me: You can reach me via email at abudanish32@gmail.com or connect with me on LinkedIn [[insert LinkedIn profile link](https://www.linkedin.com/in/abu-danish-8005b81bb/)https://www.linkedin.com/in/abu-danish-8005b81bb/].
+# Hi, I'm Abu Danish 👋
+
+M.Sc. Computer Science student at the University of Stuttgart.
+
+- 💻 Backend Development | Python | C++ | Java | AWS
+- 🔬 Student Research Assistant working on neural network robustness and open-source tooling.
+- ☁️ Former Amazon Software Development Engineer.
+- 🤝 Interested in backend, cloud, and machine learning projects.
+
+📫 Email: abu.danish733@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/abu-danish-8005b81bb/
